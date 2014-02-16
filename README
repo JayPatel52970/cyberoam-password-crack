@@ -1,0 +1,14 @@
+passwd.py- I have written this code according to my college. If you are from other college then you have to modify the code. In my college internet login is assigned to th student by their USN nmbers. So, in this code I am simply incrementing the USN number and checking the common password you have given in the input.
+if password matches with the input then you will see the USN number on the screen. 
+
+Further improved version is pwd.py there you don't have to give password manually. Simply, make a file name pass and enter the most common password in that file.
+
+In order to use this NOTE:- Open the file and change the userid according to your collge. Change the server URL. It may be differnt for your workplace/College.
+If any question or suggestion please emailme at: raushanpakur@gmail.com
+
+Third file is terminal_dict.py: This program I wrote for myself. I usually work on the UNIX terminal. I needed a good free dictionary. But there was none offline dictionary. SO, this code simple get the wordmeaning from the website thefreedictionary.com parse it and dispaly on your terminal.
+So, you don't have to search the web for that.
+
+Thank You.
+Name- Raushan Kumar
+Email- raushanpakur@gmail.com
